@@ -1,8 +1,5 @@
 # cuped-lite
 
-[![CI](https://github.com/koraysrn/cuped-lite/actions/workflows/ci.yml/badge.svg)](https://github.com/koraysrn/cuped-lite/actions/workflows/ci.yml)
-[![Python](https://img.shields.io/badge/python-3.11%20%7C%203.12%20%7C%203.13%20%7C%203.14-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 A dependency-light Python library that applies **CUPED** (Controlled
 Pre-Experiment Data) variance reduction to digital A/B tests. By exploiting
